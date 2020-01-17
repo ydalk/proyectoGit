@@ -1,0 +1,98 @@
+body {
+    color: white;
+    margin: 30px;
+    /* background-image: url(../img/fondo.jpg); */
+    background-color: gray;
+}
+
+header {
+    background-color: black;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img{
+    margin: 10px auto;
+    display: block;
+}
+
+nav {
+    background-color: ghostwhite;
+    font-size: 30px;
+}
+
+.menu {
+    color: green;
+    text-align: justify;
+    margin: 0 100px 0 100px;
+}
+
+.menu:hover{
+    color: red;
+}
+
+section {
+    width: 750px;
+    height: 480px;
+    float: left;
+    margin: 15px 40px 15px 15px;
+    background-color: red;
+}
+section:hover{
+    background-color: royalblue;
+}
+
+article {
+    text-align: justify;
+    border: 1px solid green;
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: black;
+    height: 60px;
+}
+
+
+/* estilos seccion2 */
+
+table,
+td,
+th {
+    border: 1px solid black;
+    font-size: 25px;
+    /* border-collapse: collapse; */
+}
+
+td {
+    color: blueviolet;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+}
+
+
+/* estilos de prueba */
+
+#parrafo{
+    border: 2px solid red;
+    
+    padding: 100px;
+
+}
+
+ul{
+    list-style-type: square;
+}
+
